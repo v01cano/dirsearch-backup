@@ -1,0 +1,4 @@
+400   173B   http://4399.com:80/%2e%2e//google.com
+301   185B   http://4399.com:80/php    -> REDIRECTS TO: http://www.4399.com/php
+301   185B   http://4399.com:80/adminphp    -> REDIRECTS TO: http://www.4399.com/adminphp
+301   185B   http://4399.com:80/myadminphp    -> REDIRECTS TO: http://www.4399.com/myadminphp

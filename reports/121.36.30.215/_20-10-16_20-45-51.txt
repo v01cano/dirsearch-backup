@@ -1,0 +1,15 @@
+403   216B   http://121.36.30.215:80/.htaccess.bak1
+403   218B   http://121.36.30.215:80/.htaccess.sample
+403   216B   http://121.36.30.215:80/.htaccess.orig
+403   216B   http://121.36.30.215:80/.htaccess.save
+403   214B   http://121.36.30.215:80/.htaccessBAK
+403   215B   http://121.36.30.215:80/.htaccessOLD2
+403   214B   http://121.36.30.215:80/.htaccessOLD
+403   213B   http://121.36.30.215:80/.httr-oauth
+301   235B   http://121.36.30.215:80/admin    -> REDIRECTS TO: http://121.36.30.215/admin/
+200   673B   http://121.36.30.215:80/admin/
+200   673B   http://121.36.30.215:80/admin/?/login
+403   217B   http://121.36.30.215:80/admin/.htaccess
+403   210B   http://121.36.30.215:80/cgi-bin/
+200     3B   http://121.36.30.215:80/db.sql
+200   416B   http://121.36.30.215:80/www.zip

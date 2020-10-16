@@ -1,0 +1,7 @@
+400     3KB  http://zzxt.ncu.edu.cn:80/*
+200   888B   http://zzxt.ncu.edu.cn:80/!.htaccess
+400     3KB  http://zzxt.ncu.edu.cn:80/%3f/
+200   888B   http://zzxt.ncu.edu.cn:80/.badarg.log
+200   888B   http://zzxt.ncu.edu.cn:80/.badsegment.log
+200   888B   http://zzxt.ncu.edu.cn:80/.bak_0.log
+400   324B   http://zzxt.ncu.edu.cn:80/%ff
